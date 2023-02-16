@@ -53,10 +53,10 @@ def banner():
 	print("%s\x1b[1;35m       \____/_/ |_/     /_/   /___/_/ |_/_____/"%(M))
 	print("")
 	print("%s\033[1;32m     ╔══════════════════════════════════════════╗"%(Z))
-	print("%s\033[1;91m     ║%s  Author   : %sACTION-FIRE                  %s║"%(Z,B,M,Z))
-	print("%s\033[1;91m     ║%s  Github   : github.com/ACTION-FIRE       %s║"%(Z,B,Z))
-	print("%s\033[1;91m     ║%s  Facebook : facebook.com/ft.alvi.18        %s║"%(Z,B,Z))
-	print("%s\033[1;91m     ║%s  Version  : %sV.3.0                      %s║"%(Z,B,H,Z))
+	print("%s\033[1;91m     ║%s  Author   : %sACTION-FIRE                  %s║"%(Z,B,M,Z))033[1;91m
+	print("%s\033[1;91m     ║%s  Github   : github.com/ACTION-FIRE       %s║"%(Z,B,Z))033[1;91m
+	print("%s\033[1;91m     ║%s  Facebook : facebook.com/ft.alvi.18      %s║"%(Z,B,Z))
+	print("%s\033[1;91m     ║%s  Version  : %sV.3.0                        %s║"%(Z,B,H,Z))033[1;91m
 	print("%s\033[1;32m     ╚══════════════════════════════════════════╝"%(Z))
 	print("")
 	xox('                         %s》%s》%s》%sUIDCR3K%s《%s《%s《'%(M,H,B,H,B,H,M))
